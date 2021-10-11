@@ -1,5 +1,5 @@
 # MoviesApp
-Aplicativo listando os melhores filme do momento.
+Aplicativo de listagem dos melhores filmes e das melhores series do momento.
 
 
-Para funcionar, basta clonar e usar um NPM INSTALL, que já vai puxar todas as libs utilizadas.
+Para funcionar, basta clonar e executar um NPM INSTALL, que já vai puxar todas as libs utilizadas.
